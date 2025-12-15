@@ -1,0 +1,8 @@
+transformers>=4.41.0
+torch>=2.1.0
+tqdm>=4.66.0
+pandas>=2.0.0
+numpy>=1.24.0
+reportlab>=4.0.0
+python-dateutil>=2.8.2
+
